@@ -24,13 +24,13 @@ We believe in **turning ideas into reality** by crafting tech solutions that imp
 ✅ Always learning, always evolving  
 
 ---
-
-## 📢 **Let's Connect**
+<!--
+ ## 📢 **Let's Connect**
 💻 **GitHub Repos:** [Comming Soon](#)  
 🔗 **Website (if any):** [Coming Soon](#)  
 📧 **Contact:** [comming soon]  
 
----  
+---  >
 
 🔥 _"Breaking Limits, Crafting Solutions."_  
 
